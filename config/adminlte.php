@@ -315,7 +315,7 @@ return [
             'text'        => 'Planos',
             'url'         => 'admin/plans',
             'icon'        => 'far fa-fw fa-file',
-            'label'       => 4,
+            'label'       => 0,
             'label_color' => 'success',
         ],
         ['header' => 'account_settings'],

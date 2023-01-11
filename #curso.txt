@@ -1,0 +1,6 @@
+instalacao do laravel, inicializacao do repositorio, instalacao do AdminLTE, config da primeira rota e view inicial
+
+última aula 03-01-23 -- módulo 2 - aula 2 - 
+
+
+
